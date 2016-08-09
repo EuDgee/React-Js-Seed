@@ -5,8 +5,8 @@ Use as a seed project.
 `npm install webpack webpack-dev-server -g`
 
 
-[build-badge]: https://travis-ci.org/EuDgee/React-Js-Template.svg?branch=master
-[build]: https://travis-ci.org/EuDgee/React-Js-Template
+[build-badge]: https://travis-ci.org/EuDgee/React-Js-Seed.svg?branch=master
+[build]: https://travis-ci.org/EuDgee/React-Js-Seed
 
-[codecov-badge]: https://codecov.io/github/EuDgee/React-Js-Template/coverage.svg?branch=master
-[codecov]: https://codecov.io/github/EuDgee/React-Js-Template?branch=master
+[codecov-badge]: https://codecov.io/github/EuDgee/React-Js-Seed/coverage.svg?branch=master
+[codecov]: https://codecov.io/github/EuDgee/React-Js-Seed?branch=master
